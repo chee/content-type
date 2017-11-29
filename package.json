@@ -9,5 +9,8 @@
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "node-fetch": "^1.7.3"
+  },
+  "engines": {
+    "node": "8.9.1"
   }
 }
