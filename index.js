@@ -16,6 +16,9 @@ app.get('/*', (request, response) => {
     const contentType = fetchResponse.headers.get('content-type')
     response.type(contentType)
     response.end(contentType)
+  }).catch(() => {
+    response.status(402)
+    response.end()
   })
 })
 
