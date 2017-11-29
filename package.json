@@ -1,0 +1,13 @@
+{
+  "name": "content-type",
+  "version": "1.0.0",
+  "description": "content type microservice",
+  "main": "index.js",
+  "author": "chee",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "node-fetch": "^1.7.3"
+  }
+}
