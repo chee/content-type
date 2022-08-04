@@ -1,6 +1,6 @@
 {
   "name": "content-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "content type microservice",
   "main": "index.js",
   "author": "chee",
